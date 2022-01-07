@@ -12,6 +12,7 @@ export default function Home() {
       <Head>
         <title>Ok Boomer Mag</title>
         <link rel="icon" href="/favicon.ico" />
+        <script defer src="https://unpkg.com/alpinejs@3.7.1/dist/cdn.min.js"></script>
       </Head>
         <div className='grid grid-cols-1 lg:grid-cols-12 gap-12'>
           <div className='lg:col-span-8 col-span-1'>
